@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovs19&theme=dark&layout=compact">
 </div>
 
-##
-
 Habilidades e ferramentas
 <div style="display: inline-block">
   <img align="center" alt="joao-html" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
