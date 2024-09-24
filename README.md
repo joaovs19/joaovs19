@@ -31,8 +31,8 @@ Para mais informações e contato! Clique a baixo
   <a href="www.linkedin.com/in/joão-vitor-2a7ab9321"><img src="https://github.com/user-attachments/assets/80f39fb1-3fea-4201-88f6-dba7586f1a28" alt="Linkkedin" height="35" width="35"></a>
 </div>
 
-![snake gif](https://github.com/joaovs19/joaovs19/blob/output/github-contribution-grid-snake.svg)]
+![snake gif](https://github.com/joaovs19/joaovs19/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=joaovs19&repo=joaovs19&theme=dark)](https://github.com/joaovs19/joaovs19)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=joaovs19&repo=joaovs19&theme=react)](https://github.com/joaovs19/joaovs19)
 
 
