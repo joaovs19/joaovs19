@@ -24,7 +24,7 @@ Habilidades e ferramentas
 
 ##
 
-Para mais informações e contato! Clique a baixo
+###  Para mais informações e contato! Clique a baixo
 
 <div style="displauy: inline-block">
   <a href="mailto:joaovitorsa20@gmail.com"><img src="https://github.com/user-attachments/assets/49925d77-8943-4565-9f0e-711451953d79" alt="Email" height="35" width="35"></a>
