@@ -19,6 +19,7 @@ Habilidades e ferramentas
   <img align="center" alt="joao-javaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="joao-typeScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"">
   <img align="center" alt="joao-Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="joao-Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
 
   <img align="center" alt="joao-firebase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg">
   <img align="center" alt="joao-git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
