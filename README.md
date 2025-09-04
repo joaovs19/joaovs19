@@ -1,14 +1,13 @@
-## Olá! Me chamo João 
-- 🧑🏻‍🎓 Estudante do IFPR CRPG
-- 🔭 Trabalhando no meu TCC
-- 🚀 Sempre buscando aprender mais!!!
+## Hello! My name is João 
+- Computer Science student at UTFPR, passionate about technology, software development, and Artificial Intelligence. Always eager to learn and grow!
+- Below, my hard skills
 ##
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovs19&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovs19&theme=dark&layout=compact">
 </div>
 
-Habilidades e ferramentas
+Skills and tools
 <div style="display: inline-block">
   <img align="center" alt="joao-html" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="joao-css" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
@@ -26,7 +25,7 @@ Habilidades e ferramentas
 
 ##
 
-###  Para mais informações e contato! Clique a baixo
+###  For more information and contact! Click below
 <div style="displauy: inline-block">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHSFCWzxdqmgSpnkxNbdxgchBWlPLWXPXjPvhHTQfjjMzntZHkNrqFbCMjbZBLDZgjJB" target="_blank"><img src="https://github.com/user-attachments/assets/49925d77-8943-4565-9f0e-711451953d79" alt="Email" height="35" width="35"></a>
   <!--<a href="https://discord.com/channels/@me/999696648211005590" target="_blank"><img src="https://github.com/user-attachments/assets/baf96ab8-653c-45a7-8dde-df1ac515bade" alt="Discord" height="35" width="35"></a>-->
